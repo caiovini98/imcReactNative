@@ -1,3 +1,3 @@
 # imcReactNative
-App IMC - creating by React Native  
+App IMC - created by React Native  
 Using Hooks
